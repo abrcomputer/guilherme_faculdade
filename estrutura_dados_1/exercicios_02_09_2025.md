@@ -22,7 +22,6 @@ Em seguida, o programa deve realizar as seguintes ações:
 3.  Imprimir o **novo valor** da segunda posição no console.
 
 
-/*
  * ===============================================
  *          ATIVIDADES - DIA 02/09/2025
  * Autor: Guilherme Abreu
